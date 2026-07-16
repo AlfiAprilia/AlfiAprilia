@@ -6,7 +6,7 @@ Siswa **XII RPL - SMK Telkom Malang** yang tertarik menjadi **Junior Web Develop
 - 🎯 Target karier: **Junior Web Developer (Back-End)**
 - 🌱 Saat ini memperdalam TypeScript, NestJS, dan Prisma ORM
 - 🤝 Terbiasa memecahkan masalah pada kode dan bekerja sama dalam tim
-- 📫 Hubungi saya: [alfiaprilia149@gmail.com](alfiaprilia149@gmail.com) | [085608921099](085608921099) | [LinkedIn](linkedin.com/in/alfiaprilia)
+- 📫 Hubungi saya: [alfiaprilia149@gmail.com](alfiaprilia149@gmail.com) | [LinkedIn](linkedin.com/in/alfiaprilia)
 
 ---
 
