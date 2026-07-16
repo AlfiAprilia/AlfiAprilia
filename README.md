@@ -42,7 +42,7 @@ Sistem back-end untuk manajemen perpustakaan, sudah di-deploy secara live.
 - **Live demo:** backend-library-eight.vercel.app
 
 ### 🏠 [Kost-Hunter](https://github.com/AlfiAprilia/kos-hunter)
-Aplikasi back-end untuk membantu pengguna mencari dan mengelola informasi tempat kost.
+Web back-end untuk membantu pengguna mencari dan mengelola informasi tempat kost.
 - **Bahasa/Framework:** TypeScript, JavaScript, dibangun dengan **NestJS** dan **Prisma ORM**
 
 > Ketiga project di atas dibangun dengan pola arsitektur back-end yang sama: **NestJS (TypeScript)** untuk struktur server, **Prisma** sebagai ORM untuk koneksi ke database, dan REST API sebagai penghubung antara data dan aplikasi.
